@@ -25,7 +25,7 @@ going after interaction has ended.
 previous sketches. The nuance between selecting/ collecting and grabbing. 
 
 ## How to use the sketches: 
-You can try out the sketches on a tablet by downloading the code, opening it in
+You can test the sketches on a tablet by downloading the code, opening it in
 VS Code and launching the website with an extension like [Five Server](https://marketplace.visualstudio.com/items?itemName=yandeu.five-server). To run the sketches on the tablet, make sure to open the `network` link provided by Five Server (e.g. `https://10.4.5.111:5500`).
 
 > Note: If you are using a VPN, make sure to have the tablet and computer connected by a cable. 
