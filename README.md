@@ -1,8 +1,11 @@
 Sketches from the course Interactivity
 --------
 Authors: Agnes Elfvingsson & Filippo De Togni
+
 Based on: https://github.com/ClintH/ixfx 
+
 Affiliation: Interaction Design Bachelor program, Malmö University, Sweden
+
 Date: Created during September-Oktober year 2023, second year of program
 --------
 The sketches were made using the [ixfx framework](https://ixfx.fun).
